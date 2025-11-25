@@ -1,8 +1,0 @@
-[submodule "public"]
-    path = public
-    url = https://github.com/BreachDiary/BreachDiary.github.io.git
-
-[submodule "hugo-theme-m10c"]
-    path = themes/hugo-theme-m10c
-    url = https://github.com/BreachDiary/BreachDiary.github.io.git
-
