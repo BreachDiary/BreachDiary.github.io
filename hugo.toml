@@ -13,6 +13,9 @@ theme        = "hugo-theme-m10c"
   pagerSize = 10
 
 [params]
+  author 	  = "codedloki"
+  description	  = "A Tech Enthusiasist"
+  avatar	  =  "https://www.imagehost.at/image/wWpLD"
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
