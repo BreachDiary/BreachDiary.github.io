@@ -5,6 +5,8 @@ tags:
   - learning
   - web
   - pentesting
+series:
+  - overthewire_bandit
 ---
 
 
